@@ -1,0 +1,13 @@
+TACHEOMETRY_COMPUTATION(THEODOLITE),,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Instrument Station Initial Northings   =,,,,,,,,Backstation Initial Northings       =,,,,,,Initial Bearing    =,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Instrument Station Initial Eastings    =,,,,,,,,Backstation Initial Eastings            =,,,,,,K    =,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Instrument Station Initial Elevation   =,,,,,,,,Backstation Initial Eastings            =,,,,,,C   =,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+INS.STN,IH,BS,FS,HCR(LL),,,HCR(RR,,,VCR(LL),,,VCR(RR),,,"UR(LL,RR)","MR(LL,RR","LR(LL,RR)",CP,PH
+,,,,DEG,MIN,SEC,DEG,MIN,SEC,DEG,MIN,SEC,,,,,,,,
+TP1,1.4,TP6,,23,34,32,45,54,32,34,43,45,23,32,13,2:03,3:02,3:03,,1
+,,,A,32,32,34,43,23,43,34,43,43,34,43,34,3:05,4:07,2:07,,2
